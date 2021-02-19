@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is a simple blog using Next.js and Firebase for storage and authentication.
